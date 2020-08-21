@@ -16,10 +16,10 @@ I'm Currently: perfecting data science skills; I post personal data analysis and
 
 
 
-Medium and Analytics Vidhya posts # [ ](https://medium.com/@luispaulobezerra3)
+Medium and Analytics Vidhya posts  (https://medium.com/@luispaulobezerra3)
 
 
-Kaggle # [](https://www.kaggle.com/luispaulobezerra)
+Kaggle  (https://www.kaggle.com/luispaulobezerra)
 
 
-LinkedIn # [](https://www.linkedin.com/in/luis-paulo-bezerra-da-silva-lima-08830881/)
+LinkedIn  (https://www.linkedin.com/in/luis-paulo-bezerra-da-silva-lima-08830881/)
