@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-<!--
-**bezerraluis/bezerraluis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![template_github2](https://github.com/bezerraluis/Luis-Paulo-Bezerra/blob/master/images/template_github2.JPG)
 
 Here are some ideas to get you started:
 
