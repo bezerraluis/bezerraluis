@@ -1,15 +1,26 @@
-### Hi there 👋
 
 ![template_github2](https://github.com/bezerraluis/Luis-Paulo-Bezerra/blob/master/images/template_github2.JPG)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+I'm Currently: perfecting data science skills; I post personal data analysis and Machine Learning projects on my blog on Medium and eventually contribute to the publication 
+
+'Analytics Vidhya', a community of Data Science and Analytics professionals I also participate on Kaggle competitions.
+
+
+
+
+
+
+## Find me around the Web:
+
+
+
+# [Medium and Analytics Vidhya posts ](https://medium.com/@luispaulobezerra3)
+
+
+# [Kaggle](https://www.kaggle.com/luispaulobezerra)
+
+
+# [LinkedIn](https://www.linkedin.com/in/luis-paulo-bezerra-da-silva-lima-08830881/)
